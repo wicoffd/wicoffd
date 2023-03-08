@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+## :gear: Technologies that I have been using and enjoy:
+
+<img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="75px" height="75px">     <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="75px" height="75px" />     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="75px" height="75px"/>     <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="75px" height="75px" />     <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="75px" height="75px" />     <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="75px" height="75px">     <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="75px" height="75px"/>     <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="75px" height="75px">     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="75px" height="75px"/>     <img alt="Dotnet Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="75px" height="75px">
+
+<img alt="ubuntu" src="https://cdn.svgporn.com/logos/ubuntu.svg" width="75px" height="75px">     <img alt="IntelliJ IDEA" src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="75px" height="75px">     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java17" width="75px" height="75px"/>     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python3" width="75px" height="75px"/>     <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="75px" height="75px">     <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="75px" height="75px">     <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="75px" height="75px">     <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="75px" height="75px">     <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="75px" height="75px">     <img src="images\typora.png" alt="typora" width="75px" height="75px">
+
+
+[s](url)
 <!--
 **wicoffd/wicoffd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
