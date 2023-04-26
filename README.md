@@ -20,6 +20,9 @@ I have a deep passion for coding and believe that it can change the world for th
 
 Fun fact: I can blow glass. <img src="https://media4.giphy.com/media/mZsLPL2QQgvwvQjeSd/giphy.gif?cid=ecf05e47kk5s56vsvqhlljic1iq6knupr4h09lnoggagsenz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"  />
 
+I am looking for a job in software developement.  <a href="https://www.linkedin.com/in/derek-wicoff-990944246/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a> &nbsp;	
 
 [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=wicoffd&show_icons=true&theme=radical)](https://github.com/wicoffd)
 
