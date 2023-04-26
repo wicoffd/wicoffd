@@ -14,7 +14,9 @@ I have a deep passion for coding and believe that it can change the world for th
 
 ## About Me
 
- I live in the United States :us:.
+ I live in the Seattle Washington United States :us:.
+ 
+ I have a bachelors degree in computer science.
  
  I’m currently learning C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
