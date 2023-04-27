@@ -1,5 +1,5 @@
-### Derek Wicoff
-# Seattle Washington
+# Derek Wicoff
+
 
 ## Motivations
 
@@ -17,7 +17,7 @@ I have a deep passion for coding and believe that it can change the world for th
 
 ## About Me
 
- I live in the Seattle Washington United States :us:.
+ I live in Seattle Washington United States :us:.
  
  I have a bachelors degree in computer science.
  
