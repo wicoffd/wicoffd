@@ -3,7 +3,7 @@
 
 ## Motivations
 
-I have a deep passion for coding and believe that it can change the world for the better. I want to develop and contribute to great products that are done well the first time and can be continually improved upon. Looking at the world around me, I can see how bad programs can be improved and I need to be part of that change. I want to contribute to a better world with a brighter future. 
+I have a deep passion for coding and believe that it can change the world for the better. I want to develop and contribute to great products that are done well the first time and can be continually improved upon. I will volunteer to work on coding projects in any way that I can. Feel free to email me or message me on linkedin.
 
 
 
