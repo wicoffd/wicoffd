@@ -21,7 +21,7 @@ I have a deep passion for coding and believe that it can change the world for th
  
  I have a bachelors degree in computer science.
  
- I’m currently working on a python website. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 Fun fact: I can blow glass. <img src="https://media4.giphy.com/media/mZsLPL2QQgvwvQjeSd/giphy.gif?cid=ecf05e47kk5s56vsvqhlljic1iq6knupr4h09lnoggagsenz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"  />
 
